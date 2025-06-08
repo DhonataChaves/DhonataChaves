@@ -16,6 +16,8 @@ Foco em backend com Java e formação complementar em Desenvolvimento Full Stack
 - TypeScript 
 - Node.js 
 - React
+- Git
+- GitHub
 
 ## 📌 Projetos em destaque
 - [🛹 Site animado de patins](https://dhonatachaves.github.io/patins-animation/) – Página animada com CSS puro para promover patins.
