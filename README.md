@@ -18,7 +18,7 @@ Foco em backend com Java e formação complementar em Desenvolvimento Full Stack
 - React
 
 ## 📌 Projetos em destaque
-- [🛹 Site animado de patins](https://github.com/DhonataChaves/patins-animation) – Página animada com CSS puro para promover patins.
+- [🛹 Site animado de patins](https://dhonatachaves.github.io/patins-animation/) – Página animada com CSS puro para promover patins.
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/dhonata)
